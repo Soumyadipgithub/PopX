@@ -11,6 +11,9 @@ A modern authentication flow built with React, TypeScript, and Tailwind CSS.
 - 🚀 TypeScript support
 - 🛣️ React Router for navigation
 
+![ggg](https://github.com/user-attachments/assets/54cc5cbe-bff3-4aed-a238-a4f7931e8eff)
+
+
 ## Getting Started
 
 1. Clone the repository
